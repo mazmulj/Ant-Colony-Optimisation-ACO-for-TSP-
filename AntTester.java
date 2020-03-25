@@ -1,14 +1,3 @@
-
-/*
-*  DO NOT SUBMIT THIS CLASS WITH YOUR ASSIGNMENT
-*
-*  This class is only provided so that you can test your code
-*  for Assignment 4.
-*
-*  ALL your code MUST be placed in the Ant.java class.
-*
-*  MH March 2020
-*/
 import java.util.*;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
