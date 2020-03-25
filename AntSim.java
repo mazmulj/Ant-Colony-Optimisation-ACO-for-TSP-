@@ -1,18 +1,3 @@
-/******************************************************************************
- *
- *  DO NOT SUBMIT THIS CLASS WITH YOUR ASSIGNMENT
- *
- *  DO NOT MODIFY ANY CODE IN THIS CLASS
- *
- *  This class is provided so that you can run your code
- *  for Assignment 4.
- *
- *  ALL your code MUST be placed in the Ant.java class.
- *
- *  @author M.Hatcher March 2020
- *
- ******************************************************************************/
-
 public class AntSim
 {
     // consider reading the values from a text file, each labelled
